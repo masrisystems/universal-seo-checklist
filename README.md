@@ -228,6 +228,12 @@ graph TD
 
 ---
 
+
+## 🔗 Sister Open-Source Projects
+
+- ⚡ **[Awesome AI & Developer Stack](https://github.com/masrisystems/awesome-ai-developer-stack):** Curated directory of 120+ AI agents, MCP servers, portable skills, and developer tools.
+- 🤖 **[Dot Agents Config (.agents)](https://github.com/masrisystems/dot-agents):** Universal multi-agent configuration, skills catalog, and 1-line cross-platform installers.
+
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to open a PR or submit an issue.
