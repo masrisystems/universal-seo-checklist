@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Non--Commercial_(MS--NC--1.0)-red.svg" alt="License: Non-Commercial (MS-NC-1.0)"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Non--Commercial_(MS--NC--1.1)-red.svg" alt="License: Non-Commercial (MS-NC-1.1)"></a>
   <a href="https://github.com/masrisystems/universal-seo-checklist/stargazers"><img src="https://img.shields.io/github/stars/masrisystems/universal-seo-checklist?style=flat" alt="GitHub Stars"></a>
   <a href="https://developers.google.com/search"><img src="https://img.shields.io/badge/SEO-2026%20Ready-brightgreen.svg" alt="SEO 2026 Ready"></a>
   <a href="https://llmstxt.org/"><img src="https://img.shields.io/badge/GEO-AI%20Search%20Optimized-orange.svg" alt="GEO Optimized"></a>
@@ -240,4 +240,4 @@ Contributions, issues, and feature requests are welcome! Feel free to open a PR 
 
 ## License
 
-Distributed under the Masri Systems Non-Commercial Source-Available License (MS-NC-1.0). See [LICENSE](LICENSE) for details. Personal and academic use only; business and commercial environments are prohibited without a separate commercial license (`hallo@masrisystems.com`).
+Distributed under the Masri Systems Non-Commercial Source-Available License (MS-NC-1.1). See [LICENSE](LICENSE) for details. Personal and academic use only; business and commercial environments are prohibited without a separate commercial license (`hallo@masrisystems.com`).
